@@ -5,6 +5,6 @@ def map(source_array)
   new_array
 end
 
-my_own_map do |n|
+map do |n|
   new_array=[(n*n)]
 end
