@@ -1,7 +1,7 @@
 # Your Code Here
-def map(source_array)
-  source_array.map
-  yield (source_array)
+def map(array)
+  array.map
+  yield (array)
   new_array
 end
 
